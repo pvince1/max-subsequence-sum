@@ -1,6 +1,10 @@
 # max-subsequence-sum
 Java Program computes the maximum subsequence sum within a sequence of integers using four different algorithms with varied complexities
 
+Files:
+README.md
+maxSubseqSum.java
+
 Maximum Subsequence Sum Program takes in a sequence of integers as a text file and measures the time each algorithm takes to compute the maximum subsequence sum.
 
 Algorithm 1 - Algorithm 1 contains three for loops that move through the number sequence array.  
