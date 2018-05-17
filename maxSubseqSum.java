@@ -8,8 +8,6 @@ the algorithm runtime(s) and max subsequence sum.
 */
 
 import java.util.*;
-//import java.io.*;
-//import java.lang.*;
 
 public class Proj1 {
 
